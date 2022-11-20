@@ -38,4 +38,4 @@ To run you need a competent IDE that supports python (VS code will suffice) and 
 
 #### Credit
 ##### Data
-City of New York: [NYC Open Data - (cityofnewyork.us)](https://opendata.cityofnewyork.us/) & Kaggle learning community: Kaggle.com/learn
+City of New York: [NYC Open Data - (cityofnewyork.us)](https://opendata.cityofnewyork.us/) & Kaggle learning community: https://www.kaggle.com/learn
