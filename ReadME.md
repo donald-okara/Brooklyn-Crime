@@ -1,4 +1,4 @@
-###  Project Description
+#  Project Description
 
 The Brooklyn-Crime project is a data science whose purpose is crime forecast. This project was inspired by the rising rates of crime back home.
 
